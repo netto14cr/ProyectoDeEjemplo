@@ -64,12 +64,14 @@
     <p>Cambios realizados por David14cr</p>
     <p>Cambios realizados por David14cr</p>
     <p>Cambios realizados por David14cr</p>
+    <p>Cambios por netto14cr</p>
+    <p>Cambios por netto14cr</p>
+    <p>Cambios por netto14cr</p>
   <div class="text-center">
 
   </div>
   <div class="lockscreen-footer text-center">
     <a href="../admin/">Iniciar Sesión</a>
-      <p>David siguie modificando aqui</p>
   </div>
 </div>
 <!-- /.center -->
