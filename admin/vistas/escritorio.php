@@ -34,7 +34,7 @@ require_once('../modelos/Usuario.php');
       <h5 style="font-size: 20px;">
         <strong>Lista asistencias </strong>
       </h5>
-      <p>Módulo</p>
+      <p>Módulo modifica netto14cr</p>
     </div>
     <div class="icon">
       <i class="fa fa-list" aria-hidden="true"></i>
@@ -57,7 +57,6 @@ require_once('../modelos/Usuario.php');
       <h5 style="font-size: 20px;">
         <strong>Mi lista asistencias </strong>
       </h5>
-      <p>Módulo- david 14cr</p>
     </div>
     <div class="icon">
       <i class="fa fa-list" aria-hidden="true"></i>

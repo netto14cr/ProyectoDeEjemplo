@@ -73,6 +73,7 @@
   <div class="lockscreen-footer text-center">
     <a href="../admin/">Iniciar Sesión</a>
       <p>cambio david14cr</p>
+      <p>modifica netto14cr</p>
   </div>
 </div>
 <!-- /.center -->
