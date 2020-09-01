@@ -45,6 +45,7 @@ require 'header.php';
     </tfoot>   
   </table>
 </div>
+          <p>david 14 cr modificos por aqui</p>
 <div class="panel-body" style="height: 400px;" id="formularioregistros">
   <form action="" name="formulario" id="formulario" method="POST">
     <div class="form-group col-lg-6 col-md-6 col-xs-12">

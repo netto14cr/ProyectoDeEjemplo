@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>PROYECTO DE EJEMPLO</title>
+    
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -24,6 +25,7 @@
       <div class="login-logo"><b>PROYECTO DE EJEMPLO </b></a></b></div><!-- /.login-logo -->
       <div class="login-box-body">
         <p class="login-box-msg">Ingrese sus datos de Acceso</p>
+        <p>David  14 cr --- estuvo modificando por aqui.....</p>
         <form method="post" id="frmAcceso">
           <div class="form-group has-feedback">
             <input type="text" id="logina" name="logina" class="form-control" placeholder="Usuario">
