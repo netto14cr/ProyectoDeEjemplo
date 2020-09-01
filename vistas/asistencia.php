@@ -64,7 +64,6 @@
     <p>Cambios realizados por David14cr</p>
     <p>Cambios realizados por David14cr</p>
     <p>Cambios realizados por David14cr</p>
-    Ingresa tu nombre como ID y password</div>
     <p>Cambios por netto14cr</p>
     <p>Cambios por netto14cr</p>
     <p>Cambios por netto14cr</p>
