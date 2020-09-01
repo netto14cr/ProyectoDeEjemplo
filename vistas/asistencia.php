@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Ejemplo Proyecto</title>
+    <title>Ejemplo de cambio netto</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -59,6 +59,7 @@
   <!-- /.lockscreen-item -->
   <div class="help-block text-center">
     Ingresa tu nombre como ID</div>
+    <p>cambios en rama netto14cr</p>
   <div class="text-center">
 
   </div>
