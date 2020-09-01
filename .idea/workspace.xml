@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32975288-5416-4ff3-ab62-d59ea3442aca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost/ProyectoDeEjemplo" id="4f6414ba-4e66-4a9a-ad00-6c3c5ab5a3a3" name="ejemplo" />
+      <server host="localhost" id="0be001c5-00d0-4f84-b20a-fbda823440b6" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.4.8" />
+  <component name="ProjectId" id="1gqgP6oMHckVVi0EgUUdzVjDcOK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb&#10;mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ferreteria" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Database Script.control_asistencia">
+    <configuration name="control_asistencia" type="DatabaseScript" editBeforeRun="true">
+      <script-file value="$PROJECT_DIR$/control_asistencia.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="ccc17382-f8c2-4972-8f9f-d9c32560d29d" namespace="schema/&quot;control_asistencia&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="server ejemplo">
+      <method v="2" />
+    </configuration>
+    <configuration name="pagina ejemplo" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="ejemplo">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.control_asistencia" />
+      <item itemvalue="PHP Web Page.pagina ejemplo" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32975288-5416-4ff3-ab62-d59ea3442aca" name="Default Changelist" comment="" />
+      <created>1598847510377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598847510377</updated>
+      <workItem from="1598847511817" duration="1076000" />
+      <workItem from="1598848604237" duration="532000" />
+      <workItem from="1598849466866" duration="2532000" />
+      <workItem from="1598855090731" duration="1324000" />
+      <workItem from="1598857340506" duration="2979000" />
+      <workItem from="1598916752246" duration="1515000" />
+      <workItem from="1598918283416" duration="431000" />
+      <workItem from="1598918727199" duration="407000" />
+      <workItem from="1598919146429" duration="86000" />
+      <workItem from="1598919241553" duration="366000" />
+      <workItem from="1598919620982" duration="342000" />
+      <workItem from="1598920030945" duration="188000" />
+      <workItem from="1598920228137" duration="383000" />
+      <workItem from="1598923275507" duration="380000" />
+      <workItem from="1598923912284" duration="389000" />
+      <workItem from="1598924327334" duration="243000" />
+      <workItem from="1598924578834" duration="209000" />
+      <workItem from="1598924797699" duration="134000" />
+      <workItem from="1598924941930" duration="73000" />
+      <workItem from="1598939210957" duration="4338000" />
+      <workItem from="1598943724622" duration="1538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="0" key="#CLI_Interpreters" timestamp="1598854215709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="245" y="0" key="#CLI_Interpreters/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598854215709" />
+    <state x="261" y="0" key="#Deployment" timestamp="1598943311306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Deployment/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598943311306" />
+    <state x="542" y="67" key="#Menus_and_Toolbars" timestamp="1598919911189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="67" key="#Menus_and_Toolbars/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598919911189" />
+    <state x="448" y="0" width="833" height="824" key="#PHP" timestamp="1598924745242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="0" width="833" height="824" key="#PHP/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598924745242" />
+    <state x="245" y="0" key="#Servers" timestamp="1598947553511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="245" y="0" key="#Servers/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598947553511" />
+    <state x="514" y="144" key="#Web_Browsers" timestamp="1598848509076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="144" key="#Web_Browsers/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598848509076" />
+    <state x="219" y="0" width="1097" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598947744903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="0" width="1097" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598947744903" />
+    <state x="447" y="215" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1598943231806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="215" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598943231806" />
+    <state x="582" y="61" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1598919860347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="61" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598919860347" />
+    <state x="473" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598942245332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598942245332" />
+    <state x="495" y="107" key="FileChooserDialogImpl" timestamp="1598948311072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="107" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948311072" />
+    <state width="1481" height="135" key="GridCell.Tab.0.bottom" timestamp="1598948312357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1598948255207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948255207" />
+    <state width="1481" height="135" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948312357" />
+    <state width="1481" height="135" key="GridCell.Tab.0.center" timestamp="1598948312357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1598948255207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948255207" />
+    <state width="1481" height="135" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948312357" />
+    <state width="1481" height="135" key="GridCell.Tab.0.left" timestamp="1598948312356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1598948255206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948255206" />
+    <state width="1481" height="135" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948312356" />
+    <state width="1481" height="135" key="GridCell.Tab.0.right" timestamp="1598948312357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1598948255207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="135" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948255207" />
+    <state width="1481" height="135" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948312357" />
+    <state width="740" height="69" key="GridCell.Tab.1.bottom" timestamp="1598941313377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313377" />
+    <state width="740" height="69" key="GridCell.Tab.1.center" timestamp="1598941313377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313377" />
+    <state width="740" height="69" key="GridCell.Tab.1.left" timestamp="1598941313377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313377" />
+    <state width="740" height="69" key="GridCell.Tab.1.right" timestamp="1598941313377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313377" />
+    <state width="740" height="69" key="GridCell.Tab.2.bottom" timestamp="1598941313378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313378" />
+    <state width="740" height="69" key="GridCell.Tab.2.center" timestamp="1598941313378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313378" />
+    <state width="740" height="69" key="GridCell.Tab.2.left" timestamp="1598941313377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313377" />
+    <state width="740" height="69" key="GridCell.Tab.2.right" timestamp="1598941313378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="740" height="69" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598941313378" />
+    <state width="273" height="594" key="HiddenNamespacesPopup" timestamp="1598859427840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="273" height="594" key="HiddenNamespacesPopup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598859427840" />
+    <state x="225" y="0" width="1141" height="824" key="SettingsEditor" timestamp="1598947501519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="0" width="1141" height="824" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598947501519" />
+    <state x="612" y="218" key="cloudConfig.SelfSettingsDialog" timestamp="1598924703248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="218" key="cloudConfig.SelfSettingsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598924703248" />
+    <state x="644" y="258" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1598947846037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="644" y="258" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598947846037" />
+    <state x="575" y="272" width="404" height="325" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1598947803965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="272" width="404" height="325" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598947803965" />
+    <state x="558" y="118" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1598947941619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="118" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598947941619" />
+    <state x="2834" y="325" width="695" height="336" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598918563055">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2834" y="325" width="695" height="336" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598918563055" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1598948057516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="301" y="-1" width="931" height="1063" key="search.everywhere.popup.inPresentationMode" timestamp="1598943513759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="301" y="-1" width="931" height="1063" key="search.everywhere.popup.inPresentationMode/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598943513759" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1598948057516" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/vistas/asistencia.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/vistas/asistencia.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/vistas/asistencia.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
