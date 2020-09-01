@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32975288-5416-4ff3-ab62-d59ea3442aca" name="Default Changelist" comment="" />
+    <list default="true" id="32975288-5416-4ff3-ab62-d59ea3442aca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +103,7 @@
       <workItem from="1598924941930" duration="73000" />
       <workItem from="1598939210957" duration="4338000" />
       <workItem from="1598943724622" duration="1538000" />
+      <workItem from="1598998013069" duration="648000" />
     </task>
     <servers />
   </component>
@@ -117,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="245" y="0" key="#CLI_Interpreters" timestamp="1598854215709">

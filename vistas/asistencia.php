@@ -59,6 +59,9 @@
   <!-- /.lockscreen-item -->
   <div class="help-block text-center">
     Ingresa tu nombre como ID y password</div>
+    <p>Cambios por netto14cr</p>
+    <p>Cambios por netto14cr</p>
+    <p>Cambios por netto14cr</p>
   <div class="text-center">
 
   </div>
