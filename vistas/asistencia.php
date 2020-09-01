@@ -33,7 +33,7 @@
     <a href="#"><b></b><span class="lockscreen-name">PROYECTO DE EJEMPLO</span></a>
   </div>
   <!-- User name -->
-  <div class="lockscreen-name">PHPSTORM</div>
+  <div class="lockscreen-name">David14cr</div>
 
   <!-- START LOCK SCREEN ITEM -->
   <div class="lockscreen-item">
@@ -58,6 +58,12 @@
   </div>
   <!-- /.lockscreen-item -->
   <div class="help-block text-center">
+    Ingresa tu nombre como ID</div>
+    <p>Cambios realizados por David14cr</p>
+    <p>Cambios realizados por David14cr</p>
+    <p>Cambios realizados por David14cr</p>
+    <p>Cambios realizados por David14cr</p>
+    <p>Cambios realizados por David14cr</p>
     Ingresa tu nombre como ID y password</div>
     <p>Cambios por netto14cr</p>
     <p>Cambios por netto14cr</p>
