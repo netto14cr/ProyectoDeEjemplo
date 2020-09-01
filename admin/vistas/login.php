@@ -21,7 +21,7 @@
   <body class="hold-transition login-page">
     <?php require '../config/Conexion.php'; ?>
     <div class="login-box">
-      <div class="login-logo"><b>PROYECTO DE EJEMPLO</b></a></b></div><!-- /.login-logo -->
+      <div class="login-logo"><b>PROYECTO DE EJEMPLO </b></a></b></div><!-- /.login-logo -->
       <div class="login-box-body">
         <p class="login-box-msg">Ingrese sus datos de Acceso</p>
         <form method="post" id="frmAcceso">

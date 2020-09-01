@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -72,6 +72,7 @@
   </div>
   <div class="lockscreen-footer text-center">
     <a href="../admin/">Iniciar Sesión</a>
+      <p>cambio david14cr</p>
   </div>
 </div>
 <!-- /.center -->
