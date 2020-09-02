@@ -32,7 +32,7 @@ require_once('../modelos/Usuario.php');
     <a href="asistencia.php" class="small-box-footer">
     <div class="inner">
       <h5 style="font-size: 20px;">
-        <strong>Lista asistencias </strong>
+        <strong>Lista asistencias</strong>
       </h5>
     </div>
     <div class="icon">
